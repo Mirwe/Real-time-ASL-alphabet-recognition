@@ -2,7 +2,7 @@
 
 Testing MediaPipe and Tensorflow technologies for Sign Language alphabet recognition from Camera
 
-dataset used: https://www.kaggle.com/grassknoted/asl-alphabet
+Dataset used: https://www.kaggle.com/grassknoted/asl-alphabet
 
 Files:
   - model.py: Python file to train a Convolutional Neural Network with TensorFlow (asl_model.h5)
